@@ -4,3 +4,4 @@ Here we are using "sequintial " model in our CNN .
 Using the various feature extraction method in our model we are getting our desired output.
 The main functioning is that the user sends in his/her MRI image to the bot and the Bot replies to it predicting if it has a tumor or not. 
 Here the front End part is done using the Telegram Bot API because the Telegram is a open source communication . 
+link: https://www.linkedin.com/pulse/brain-tumor-detection-bot-using-deep-learning-framework-nanda
